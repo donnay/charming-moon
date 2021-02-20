@@ -17,10 +17,23 @@ sections:
     col_number: three
     grid_items:
       - title: The Caudices
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+        content: >
+          ###### Genesis is separated into three books, in latin 'caudices',
+          these are:
+
+
+
+
+          *   The Caudex, Regulum, the book of rules were meant to be used by
+          players and a Game Master in a table-top Role-Playing Game setting.
+
+
+          *   The Caudex Centia, the book of Data provides quantitative data,
+          tables and rules to support game play.
+
+
+          *   The Caudex Universum, the book of the Genesis Universe provides
+          nuance, color and depth to that game play.
         actions:
           - label: Get Started
             url: /docs
