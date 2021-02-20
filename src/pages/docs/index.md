@@ -70,4 +70,6 @@ For these, you would roll as normal and then add the number to the result. For t
 
 (The same convention as in the percentile roll applies, if you were to roll 0, 0, 0 then the result would be 1000).  We have seen that the way in which we use abbreviations is not so much to tell, the reader, which dice to use but how to interpret the result of the dice.
 
+![](images/MetricSystem.PNG)
+
 ![](/images/MetricSystem.PNG)
