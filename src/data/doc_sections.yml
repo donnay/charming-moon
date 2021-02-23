@@ -1,9 +1,10 @@
 root_docs_path: /docs
 sections:
+  - caudex-regulum
   - about
-  - getting-started
   - ui-components
   - manage-content
   - tools
   - faq
   - community
+  - copyright
