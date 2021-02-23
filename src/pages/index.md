@@ -16,44 +16,27 @@ sections:
     type: section_grid
     col_number: three
     grid_items:
-      - title: The Caudices
+      - title: Caudex Regulum
         content: >
-          ###### Genesis is separated into three books, in latin 'caudices',
-          these are:
-
-
-
-
-          *   The Caudex, Regulum, the book of rules were meant to be used by
-          players and a Game Master in a table-top Role-Playing Game setting.
-
-
-          *   The Caudex Centia, the book of Data provides quantitative data,
-          tables and rules to support game play.
-
-
+          * The Caudex Regulum - The book of rules were meant to be used by players and a Game Master in a table-top Role-Playing Game setting.
+        actions:
+          - label: Read the Rules
+            url: /caudex-regulum
+            style: link
+      - title: Caudex Centia
+        content: >
+          * The Caudex Centia, the book of Data provides quantitative data, tables and rules to support game play.
+        actions:
+          - label: Expand your knowledge
+            url: /caudex-regulum
+            style: link
+      - title: Caudex Universium
+        content: >
           *   The Caudex Universum, the book of the Genesis Universe provides
           nuance, color and depth to that game play.
         actions:
-          - label: Get Started
-            url: /docs
-            style: link
-      - title: Blog
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-        actions:
-          - label: View Posts
-            url: /blog
-            style: link
-      - title: Style Guide
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
-        actions:
-          - label: Learn More
-            url: /style-guide
+          - label: The Universe awaits
+            url: /caudex-universum
             style: link
   - section_id: text-img
     type: section_content

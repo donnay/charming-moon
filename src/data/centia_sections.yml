@@ -1,0 +1,10 @@
+root_docs_path: /caudex-centia
+sections:
+  - caudex-regulum
+  - about
+  - ui-components
+  - manage-content
+  - tools
+  - faq
+  - community
+  - copyright
