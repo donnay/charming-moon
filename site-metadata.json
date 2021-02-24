@@ -53,7 +53,7 @@
                 "type": "action_menu"
             },
             {
-                "label": "Caudex Universium",
+                "label": "Caudex Universum",
                 "url": "caudex-universium",
                 "style": "link",
                 "icon_class": "dev",
