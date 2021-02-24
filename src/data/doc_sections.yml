@@ -1,10 +1,7 @@
 root_docs_path: /docs
 sections:
+  - production
   - caudex-regulum
-  - about
-  - ui-components
-  - manage-content
-  - tools
-  - faq
-  - community
-  - copyright
+  - hold
+  - caudex-centia
+  - caudex-universum
