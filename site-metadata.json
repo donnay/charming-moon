@@ -13,45 +13,9 @@
                 "has_subnav": false
             },
             {
-                "label": "Docs",
-                "url": "/caudex-regulum",
+                "label": "Introduction",
+                "url": "/docs",
                 "style": "link",
-                "has_subnav": false
-            },
-            {
-                "label": "Blog",
-                "url": "/blog",
-                "style": "link",
-                "has_subnav": false
-            },
-            {
-                "label": "Sample Pages",
-                "url": "#",
-                "style": "link",
-                "has_subnav": true,
-                "subnav_links": [
-                    {
-                        "label": "Overview",
-                        "url": "/overview",
-                        "style": "link"
-                    },
-                    {
-                        "label": "Showcase",
-                        "url": "/showcase",
-                        "style": "link"
-                    }
-                ]
-            },
-            {
-                "label": "Style Guide",
-                "url": "/style-guide",
-                "style": "link",
-                "has_subnav": false
-            },
-            {
-                "label": "GitHub",
-                "url": "https://github.com/",
-                "style": "primary",
                 "has_subnav": false
             },
             {
@@ -77,8 +41,8 @@
                 "type": "action_menu"
             },
             {
-                "label": "Caudex Universium",
-                "url": "caudex-universium",
+                "label": "Caudex Universum",
+                "url": "caudex-universum",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
@@ -86,6 +50,36 @@
                 "has_subnav": false,
                 "subnav_links": [],
                 "type": "action_menu"
+            },
+            {
+                "label": "Blog",
+                "url": "/blog",
+                "style": "link",
+                "has_subnav": false
+            },
+            {
+                "label": "Style Guide",
+                "url": "/style-guide",
+                "style": "link",
+                "has_subnav": false
+            },
+            {
+                "label": "Sample Pages",
+                "url": "#",
+                "style": "link",
+                "has_subnav": true,
+                "subnav_links": [
+                    {
+                        "label": "Overview",
+                        "url": "/overview",
+                        "style": "link"
+                    },
+                    {
+                        "label": "Showcase",
+                        "url": "/showcase",
+                        "style": "link"
+                    }
+                ]
             }
         ]
     },

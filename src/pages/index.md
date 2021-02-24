@@ -28,7 +28,7 @@ sections:
           * The Caudex Centia, the book of Data provides quantitative data, tables and rules to support game play.
         actions:
           - label: Expand your knowledge
-            url: /caudex-regulum
+            url: /caudex-centia
             style: link
       - title: Caudex Universium
         content: >
