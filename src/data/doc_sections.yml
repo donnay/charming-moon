@@ -2,6 +2,5 @@ root_docs_path: /docs
 sections:
   - production
   - caudex-regulum
-  - hold
   - caudex-centia
   - caudex-universum
