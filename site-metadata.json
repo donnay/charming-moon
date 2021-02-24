@@ -20,7 +20,7 @@
             },
             {
                 "label": "Caudex Regulum",
-                "url": "caudex-regulum",
+                "url": "docs/caudex-regulum",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
