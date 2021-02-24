@@ -1,5 +1,5 @@
 ---
-Life Tables
+title: Life Tables
 weight: 32
 seo:
   title: Installation
