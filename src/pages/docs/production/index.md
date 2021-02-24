@@ -1,6 +1,5 @@
 ---
 title: Production
-weight: 3
 seo:
   title: Production
   description: This is the overview page
