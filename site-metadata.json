@@ -13,14 +13,14 @@
                 "has_subnav": false
             },
             {
-                "label": "Docs",
-                "url": "/caudex-regulum",
+                "label": "Introduction",
+                "url": "/docs",
                 "style": "link",
                 "has_subnav": false
             },
             {
                 "label": "Caudex Regulum",
-                "url": "docs/caudex-regulum",
+                "url": "caudex-regulum",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
@@ -31,7 +31,7 @@
             },
             {
                 "label": "Caudex Centia",
-                "url": "docs/caudex-centia",
+                "url": "caudex-centia",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
@@ -42,7 +42,7 @@
             },
             {
                 "label": "Caudex Universum",
-                "url": "docs/caudex-universum",
+                "url": "caudex-universum",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
