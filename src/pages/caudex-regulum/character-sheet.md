@@ -1,5 +1,6 @@
 ---
-title: Characters
+title: Character Tables
+weight: 5
 seo:
   title: Installation
   description: This is the installation page

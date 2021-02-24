@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: The Book of the universe
 seo:
   title: Welcome to Libris
   description: This is the documentation page

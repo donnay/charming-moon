@@ -1,6 +1,6 @@
 ---
 title: Character Tables
-weight: 1
+weight: 4
 seo:
   title: Installation
   description: This is the installation page

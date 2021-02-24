@@ -21,14 +21,14 @@ sections:
           * The Caudex Regulum - The book of rules were meant to be used by players and a Game Master in a table-top Role-Playing Game setting.
         actions:
           - label: Read the Rules
-            url: /caudex-regulum
+            url: /docs/caudex-regulum
             style: link
       - title: Caudex Centia
         content: >
           * The Caudex Centia, the book of Data provides quantitative data, tables and rules to support game play.
         actions:
           - label: Expand your knowledge
-            url: /caudex-centia
+            url: /docs/caudex-centia
             style: link
       - title: Caudex Universium
         content: >
@@ -36,7 +36,7 @@ sections:
           nuance, color and depth to that game play.
         actions:
           - label: The Universe awaits
-            url: /caudex-universum
+            url: /docs/caudex-universum
             style: link
   - section_id: text-img
     type: section_content

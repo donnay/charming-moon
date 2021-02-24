@@ -1,6 +1,6 @@
 ---
 title: Characters
-weight: 1
+weight: 6
 seo:
   title: Installation
   description: This is the installation page
