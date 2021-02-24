@@ -19,12 +19,6 @@
                 "has_subnav": false
             },
             {
-                "label": "Blog",
-                "url": "/blog",
-                "style": "link",
-                "has_subnav": false
-            },
-            {
                 "label": "Caudex Regulum",
                 "url": "caudex-regulum",
                 "style": "link",
@@ -56,6 +50,12 @@
                 "has_subnav": false,
                 "subnav_links": [],
                 "type": "action_menu"
+            },
+            {
+                "label": "Blog",
+                "url": "/blog",
+                "style": "link",
+                "has_subnav": false
             },
             {
                 "label": "Style Guide",
