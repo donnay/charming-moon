@@ -31,7 +31,7 @@
             },
             {
                 "label": "Caudex Centia",
-                "url": "caudex-cent",
+                "url": "docs/caudex-centia",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
@@ -42,7 +42,7 @@
             },
             {
                 "label": "Caudex Universum",
-                "url": "caudex-universum",
+                "url": "docs/caudex-universum",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
