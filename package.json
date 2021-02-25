@@ -7,7 +7,8 @@
     "develop": "gatsby develop",
     "build": "gatsby build --prefix-paths",
     "serve": "gatsby serve",
-    "clean": "gatsby clean"
+    "clean": "gatsby clean",
+    "start": "node your-script.js"
   },
   "dependencies": {
     "@stackbit/gatsby-plugin-menus": "0.0.4",
